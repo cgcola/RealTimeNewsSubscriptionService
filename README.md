@@ -1,5 +1,4 @@
-<h1>Lab Assignment 6: Observer Pattern</h1>
-<h1>Real-time News Subscription Service</h1>
+<h1>Lab Assignment 6: Observer Pattern (Real-time News Subscription Service)</h1>
 
 <p><strong>Background:</strong> You're tasked with designing a real-time news subscription service for a media company. The system needs to notify subscribers about breaking news as soon as it's published by the news agency.</p>
 
